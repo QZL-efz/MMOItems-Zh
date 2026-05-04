@@ -125,15 +125,15 @@
             <scope>provided</scope>
             <optional>true</optional>
         </dependency>
-        <!-- ItemsAdder -->
-        <dependency>
+        <!-- ItemsAdder (仓库已下线，暂时禁用) -->
+        <!-- <dependency>
             <groupId>dev.lone</groupId>
             <artifactId>api-itemsadder</artifactId>
             <version>4.0.2-beta-release-11</version>
             <scope>provided</scope>
-        </dependency>
-        <!-- Nexo -->
-        <dependency>
+        </dependency> -->
+        <!-- Nexo (仓库已下线，暂时禁用) -->
+        <!-- <dependency>
             <groupId>com.nexomc</groupId>
             <artifactId>nexo</artifactId>
             <version>1.0.0</version>
@@ -145,9 +145,9 @@
                     <artifactId>libby-bukkit</artifactId>
                 </exclusion>
             </exclusions>
-        </dependency>
-        <!-- Oraxen -->
-        <dependency>
+        </dependency> -->
+        <!-- Oraxen (仓库已下线，暂时禁用) -->
+        <!-- <dependency>
             <groupId>io.th0rgal</groupId>
             <artifactId>oraxen</artifactId>
             <version>1.189.0</version>
@@ -159,7 +159,7 @@
                     <artifactId>actions-spigot</artifactId>
                 </exclusion>
             </exclusions>
-        </dependency>
+        </dependency> -->
         <!-- Aura Skills -->
         <dependency>
             <groupId>dev.aurelium</groupId>
@@ -349,14 +349,14 @@
             <scope>provided</scope>
             <optional>true</optional>
         </dependency>
-        <!-- HolographicDisplays API -->
-        <dependency>
+        <!-- HolographicDisplays API (仓库已下线，暂时禁用) -->
+        <!-- <dependency>
             <groupId>com.gmail.filoghost.holographicdisplays</groupId>
             <artifactId>holographicdisplays-api</artifactId>
             <version>2.4.0</version>
             <scope>provided</scope>
             <optional>true</optional>
-        </dependency>
+        </dependency> -->
         <!-- RacesAndClasses -->
         <dependency>
             <groupId>de.tobiyas</groupId>
@@ -397,14 +397,14 @@
             <scope>provided</scope>
             <optional>true</optional>
         </dependency>
-        <!-- Citizens -->
-        <dependency>
+        <!-- Citizens (仓库已下线，暂时禁用) -->
+        <!-- <dependency>
             <groupId>net.citizensnpcs</groupId>
             <artifactId>Citizens</artifactId>
             <version>2.0.30</version>
             <scope>provided</scope>
             <optional>true</optional>
-        </dependency>
+        </dependency> -->
         <!-- Denizen -->
         <dependency>
             <groupId>com.denizenscript</groupId>
